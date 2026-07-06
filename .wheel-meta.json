@@ -1,0 +1,17 @@
+{
+  "wheel_id": 111,
+  "slug": "homeloanbrokerbrisbane-150",
+  "project": "investment-property-loans-brisbane-h-150",
+  "parent_t1_ref": "homeloanbrokerbrisbane-002",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "investment property loans brisbane",
+  "intended_url": "https://investment-property-loans-brisbane-h-150.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/investment-property-loans-brisbane/",
+      "anchor": "investment property loans brisbane",
+      "rel": "follow"
+    }
+  ]
+}
